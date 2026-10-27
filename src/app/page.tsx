@@ -16,6 +16,7 @@ export default function Home() {
         </div>
         <p className="text-lg text-gray-400 max-w-2xl">
           Live profitability tracker for Torchlight: Infinite farming strategies. 
+          Auto-updating every deploy with Void Chart passive farm data. 
           All prices calculated in <span className="text-amber-400 font-semibold">Flame Elementium</span>.
         </p>
         <div className="flex flex-wrap gap-4 mt-6 text-sm text-gray-500">
